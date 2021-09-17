@@ -13,7 +13,7 @@
                             </div>
                         </div>
                         <div class="psPhoto">
-                            <img src="assets/images/home_01/1.jpg" alt=""/>
+                            <img src="assets/images/rajgoldar-rishi-2.jpg" alt=""/>
                             <div class="psSocial">
                                 <a href="https://facebook.com/" target="_blank" class="fac"><i class="icofont-facebook"></i></a>
                                 <a href="https://twitter.com/" target="_blank" class="twi"><i class="icofont-twitter"></i></a>
